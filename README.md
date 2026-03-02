@@ -62,5 +62,7 @@ Skills Demonstrated
 ->Problem-Solving Using Real-World Data
 
 Future Scope
+
 Develop a predictive model to forecast cancellations
+
 Build an interactive Power BI dashboard for stakeholder reporting
